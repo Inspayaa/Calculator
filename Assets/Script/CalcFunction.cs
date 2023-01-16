@@ -45,11 +45,12 @@ public class CalcFunction : MonoBehaviour
     public void One()
     {
        
-        if (firstDisplay.text.Length >= 1 && firstDisplay.text.Length <= 10)
+        if (firstDisplay.text.Length <= 10)
         {
             if (firstDisplay.text.Length == 1)
             {
                 firstDisplay.text = "";
+
             }
 
             UpdateDisplayText("1");
