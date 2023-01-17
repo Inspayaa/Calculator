@@ -1,3 +1,3 @@
 # Calculator
-Assets: Extra clean UIs(Unity asset store)
+Assets: Extra clean UI by Blue Crystal Studios(Unity asset store)
  
